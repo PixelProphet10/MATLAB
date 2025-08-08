@@ -10,6 +10,8 @@ Welcome to my collection of MATLAB projects! This repository contains various ac
 | `To formulate YBUS by step by step method (Direct Method).`  | Computes the Y-bus matrix using direct method for power systems. |
 | `SCR_Circuit_Simulation`  | Simulation of an SCR-based firing and power control circuit. |
 | `IGBT_Characteristics`    | Plots the output and transfer characteristics of an IGBT using simulation or script. |
+| `Simulation Of Electromagnetic Wave`    | Plots The Behaviour Of EM Radiations. |
+
 
 > 🔁 More projects will be added as development continues.
 
