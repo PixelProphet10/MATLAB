@@ -13,7 +13,8 @@ Welcome to my collection of MATLAB projects! This repository contains various ac
 | `SCR_Circuit_Simulation` | Simulation of an SCR-based firing and power control circuit. |
 | `IGBT_Characteristics` | Plots output and transfer characteristics of an IGBT using simulation or MATLAB scripts. |
 | `Simulation Of Electromagnetic Wave` | Plots and analyzes the behavior of electromagnetic radiation. |
-| `Multilevel Inverter` | MATLAB/Simulink implementation of multilevel inverter including output waveform, harmonics, and switching pattern analysis. |
+| `Multilevel Inverter` | MATLAB/Simulink implementation of a multilevel inverter including output waveform, harmonics, and switching pattern analysis. |
+| `Multilevel Inverter (13-Level)` | A detailed MATLAB/Simulink model of a **13-level inverter**, including switching logic, output waveform, THD analysis, and modulation index calculation. |
 | `Three Phase Controlled Converter` | Simulation of a fully controlled three-phase rectifier using SCRs with firing angle control. |
 | `Single Phase Uncontrolled Converter` | Analysis and simulation of a diode-based single-phase rectifier and its output characteristics. |
 | `Three Phase Uncontrolled Converter` | Simulation of a three-phase diode rectifier with computation of average and rms output values. |
@@ -21,6 +22,7 @@ Welcome to my collection of MATLAB projects! This repository contains various ac
 | `Boost Converter` | Simulation and analysis of a DC-DC boost converter in CCM and DCM modes. |
 | `Characteristics of MOSFET` | Plots transfer and output characteristics of a MOSFET using scripts or simulation. |
 | `Full DC to DC Converter` | Complete simulation of Buck, Boost, and Buck-Boost converters with waveform and switching analysis. |
+| `DC Motor Control Using Chopper` | Modeling and simulation of **DC motor speed control** using a DC-DC chopper (Buck/Boost), including torque-speed characteristics and PWM control. |
 
 > 🔁 More projects will be added as development continues.
 
@@ -35,3 +37,9 @@ Welcome to my collection of MATLAB projects! This repository contains various ac
   - Simulink (for model-based projects)
 
 ---
+
+## 🚀 How to Use
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/PixelProphet10/MATLAB.git
